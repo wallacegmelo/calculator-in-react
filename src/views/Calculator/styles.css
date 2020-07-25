@@ -1,0 +1,10 @@
+div#calculator-body {
+  width: 30vw;
+  height: 90vh;
+  background-color: #000;
+  
+  margin: 5vh auto;
+
+  display: flex;
+  flex-direction: column;
+}
